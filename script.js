@@ -1,4 +1,4 @@
-const apiKey = "d84a5a0d2fb24b35b6673155251507";
+const apiKey = "295ed20c0ca447ec8c3152319250108";
 let isCelsius = true;
 
 async function getWeather(city = null) {
